@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">MedicalCenterApp</string>
+    <string name="select">select</string>
+    <string name="search">search</string>
+    <string name="select_a_minimum_of_5_symptoms">Select a minimum of 5 symptoms</string>
+    <string name="submit">Submit</string>
+    <string name="can_t_find_you_symptom_press_the_button_for_more_information">Can\'t find you symptom press the button for more information</string>
+    <string name="pharmacy_pic">pharmacy pic</string>
+    <string name="view_a_list_of_pharmacies_in_your_area">View a List of Pharmacies in your area</string>
+    <string name="chat_to_a_consultant">Chat to a consultant</string>
+    <string name="not_feeling_well_check_your_symptoms_here">Not feeling well? Check your symptoms here</string>
+    <string name="send">Send</string>
+    <string name="login">LOGIN</string>
+    <string name="enter_username">Enter username</string>
+    <string name="results">Diagnosis</string>
+    <string name="treatment">Treatment</string>
+    <string name="risk_factors">Risk Factors</string>
+    <string name="medication">Medication</string>
+    <string name="go_back_to_main_menu">Go back to Main menu</string>
+    <string name="sorry_we_couldn_t_be_of_help_please_choose_the_options_below">Sorry we couldn\'t be of help. Please choose the options below</string>
+    <string name="chat_with_a_doctor">Chat with a Doctor</string>
+    <string name="click_here_to_chat_with_a_doctor_or_consultant">Click here to chat with a Doctor or consultant</string>
+    <string name="list_of_pharmacies">List of pharmacies</string>
+    <string name="visiting_any_pharmacy_near_you_about_medication_enquiries">Visiting any pharmacy near you about medication enquiries</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="new_user_click_here_to_register">New user? Click here to Register</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email">Email</string>
+    <string name="address">Address</string>
+    <string name="national_id">National ID</string>
+    <string name="full_name">Full name</string>
+</resources>
